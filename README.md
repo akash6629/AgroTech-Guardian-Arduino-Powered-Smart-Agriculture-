@@ -1,4 +1,4 @@
-# smartagriculture
+# Smartagriculture
 A smart agriculture irrigation system utilizes various technologies to optimize water usage, improve crop yield, and reduce manual labor. Here's an outline of components and technologies commonly integrated into such systems:
 
 Soil Moisture Sensors: These sensors measure the moisture content in the soil. They provide real-time data on soil conditions, allowing farmers to adjust irrigation schedules accordingly.
